@@ -4,4 +4,4 @@ Priemiro módulo de html e css do Curso em vídeo
 
 Estou aprendendo a crari sites e agora vou gerenciar meus próprios diretórios!
 
-testandooo
+reinstalando arquivos do outro ssd no novo
